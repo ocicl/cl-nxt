@@ -2,9 +2,8 @@
 
 Common Lisp library to communicate to the NXT Lego Mindstorm Brick over Bluetooth
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/woudshoo/cl-nxt.git   |
-| commit  | f642a7c  |
-| systems | cl-nxt |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/woudshoo/cl-nxt.git |
+| commit  | f642a7c                                    |
+| systems | (nxt nxt-proxy)                            |
+|---------+--------------------------------------------|

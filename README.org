@@ -5,5 +5,5 @@ Common Lisp library to communicate to the NXT Lego Mindstorm Brick over Bluetoot
 |---------+--------------------------------------------|
 | source  | git:https://github.com/woudshoo/cl-nxt.git |
 | commit  | f642a7c                                    |
-| systems | (nxt nxt-proxy)                            |
+| systems | nxt nxt-proxy                              |
 |---------+--------------------------------------------|
